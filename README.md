@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fayafialatmi
+- 👀 I’m interested in web-developing 
+- 🌱 I’m currently learning React.js
