@@ -1,2 +1,6 @@
- 👋 Hi, I’m @fayafialatmi
+ 👋 Hi, I’m @fayafi 
+ 
 
+
+- Computer graduate 🧑‍🎓
+- **Programming:** HTML, CSS 
